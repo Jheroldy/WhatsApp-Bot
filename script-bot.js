@@ -9,5 +9,5 @@ CSS.href="https://jheroldy.github.io/whatsapp-bot/style.css";
 var flutuante = document.createElement('section');
 flutuante.classList = 'flutuante';
 
-body.appendChild(flutuante);
 head.appendChild(CSS);
+body.appendChild(flutuante);
